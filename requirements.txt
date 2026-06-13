@@ -6,3 +6,4 @@ wordcloud
 konlpy
 numpy
 pillow
+requests
