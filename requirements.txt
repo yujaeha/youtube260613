@@ -1,9 +1,5 @@
-streamlit
-google-api-python-client
-pandas
-matplotlib
-wordcloud
-konlpy
-numpy
-pillow
-requests
+streamlit>=1.30.0
+google-api-python-client>=2.100.0
+wordcloud>=1.9.2
+matplotlib>=3.8.0
+pandas>=2.1.0
